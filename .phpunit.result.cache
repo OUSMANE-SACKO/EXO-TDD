@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"AccountTest::testNewAccountStartsWithZeroBalance":0.004,"AccountTest::testDepositIncreasesBalance":0,"AccountTest::testSpendDecreasesBalance":0,"AccountTest::testSpendMoreThanBalanceThrows":0.001,"AccountTest::testDepositNegativeAmountThrows":0,"AccountTest::testSpendNegativeAmountThrows":0}}
