@@ -1,7 +1,3 @@
-Voici un **README propre, clair et complet**, qui explique tout ce que toi et moi on a fait depuis le début du TD, mon frérot 👇🔥
-
----
-
 # **MyWeeklyAllowance – Projet TDD (Test Driven Development)**
 
 Ce projet consiste à développer un module de gestion d’argent de poche pour adolescents, en suivant la méthodologie **TDD (Test Driven Development)** :
